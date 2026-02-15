@@ -1,0 +1,9 @@
+tidyverse
+data.table
+dplyr
+ggplot2
+stringr
+readr
+vcfR
+VariantAnnotation
+biomaRt
